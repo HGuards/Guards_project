@@ -1,2 +1,2 @@
 Hello GIT
-ad new line
+add new line
