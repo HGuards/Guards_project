@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-Hello dev123
-Hello first change
-34234
+First line - anna
 
-Second change
+Second line - victoria
 
-Changes from V
